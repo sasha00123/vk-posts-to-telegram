@@ -1,0 +1,6 @@
+python-telegram-bot
+requests
+pymongo
+apscheduler
+Pillow
+python-decouple
